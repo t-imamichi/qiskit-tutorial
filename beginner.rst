@@ -16,19 +16,19 @@ Beginner's guide for installation and setup
 
     git clone https://github.com/QISKit/qiskit-tutorial.git
 
-2. create conda environment for QISKit and install packages
+3. create conda environment for QISKit and install packages
 
 .. code:: sh
 
     cd qiskit-tutorial
     conda create env -f qiskit-simple.yml
 
-3. activate the environment
+4. activate the environment
 
    - MacOS, Linux: ``source activate QISKitenv``
    - Windows: ``activate QISKitenv``
 
-4. setup API token
+5. setup API token
 
     1. Create an
        `IBM Quantum Experience Experience <https://quantumexperience.ng.bluemix.net>`__
