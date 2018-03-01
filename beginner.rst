@@ -21,7 +21,7 @@ Beginner's guide for installation and setup
 .. code:: sh
 
     cd qiskit-tutorial
-    conda create env -f qiskit-simple.yml
+    conda env create -f qiskit-simple.yml
 
 4. activate the environment
 
